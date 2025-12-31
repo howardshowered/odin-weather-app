@@ -51,6 +51,3 @@ searchButton.addEventListener('click',async () => {
     displayWeather(data);
 
 })
-
-
-// fetchWeather('New York City');
